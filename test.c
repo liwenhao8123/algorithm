@@ -7,5 +7,6 @@ int main(int argc ,char * argv)
     printf("change by win_git\n");
     printf("change by VSCode_git\n");
     printf("change by win_git again\n");
+    printf("change by win_git check\n");
     return 0;
 }
